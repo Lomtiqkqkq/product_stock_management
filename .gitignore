@@ -1,0 +1,9 @@
+/apps/history_service/.idea
+/apps/history_service/node_modules
+/apps/history_service/.env
+
+/apps/inventory_service/.idea
+/apps/inventory_service/node_modules
+/apps/inventory_service/.env
+
+/apps/.idea
