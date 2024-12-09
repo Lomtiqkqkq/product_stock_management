@@ -7,3 +7,6 @@
 /apps/inventory_service/.env
 
 /apps/.idea
+
+/apps/user_service/node_modules
+/apps/user_service/.idea
