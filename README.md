@@ -10,7 +10,7 @@
 ***
 ### Используемые технологии:
 ***
-- **Node js, express, postgreSQL, typeorm, JSONRPC
+- **Node js (+typescript), express, nestJs, postgreSQL, typeorm, JSONRPC, eslint, prettier
 ***
 ***
 ## Установка
@@ -18,7 +18,7 @@
 1. Клонировать репозиторий:
 
 ```bash
-git clone https://github.com/Lomtiqkqkq/product_stock_managament
+git clone https://github.com/Lomtiqkqkq/product_stock_managament.git
 ```
 ***
 # ВАЖНО!!!!
